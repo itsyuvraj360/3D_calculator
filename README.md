@@ -1,2 +1,2 @@
 # 3D_calculator
-[![Netlify Status](https://api.netlify.com/api/v1/badges/844c95b8-903b-441c-894e-e6e10885aa05/deploy-status)](https://app.netlify.com/sites/12calculator12/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2d602e3e-2b1c-4f34-bfd2-f450c7414181/deploy-status)](https://app.netlify.com/sites/animated-madeleine-7ede05/deploys)
